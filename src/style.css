@@ -48,6 +48,9 @@
 .container_2{
 
 }
+img{
+    border-radius: 4px 4px 0 0 ;
+}
 .contain_3{
     content: "";
     display: inline-block;
